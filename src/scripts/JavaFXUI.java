@@ -61,7 +61,7 @@ public class JavaFXUI extends JPanel {
         PlatformImpl.startup(new Runnable() {  
             @Override
             public void run() {  
-                 
+
                 stage = new Stage();  
                  
                 stage.setTitle("Hello Java FX");  
