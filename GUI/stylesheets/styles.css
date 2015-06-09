@@ -2,6 +2,10 @@
   background: rgba(0,0,0,0);
 }
 
+body{
+  background: black;
+}
+
 .logsright{
   margin-right: 35%;
 float: right;
