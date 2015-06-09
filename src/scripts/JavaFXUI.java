@@ -73,7 +73,7 @@ public class JavaFXUI extends JPanel {
                 browser = new WebView();
                 final WebEngine webEngine = browser.getEngine();
                 webEngine.setJavaScriptEnabled(true);
-                webEngine.load("http://warfront1.github.io/AutoFletcherElite/UserInterfaces/AutoFletcherEliteGUI.html");
+                webEngine.load("http://cuhlifa.github.io/AIOChopper/GUI/");
                 webEngine.getLoadWorker().stateProperty().addListener(
                         new ChangeListener<Worker.State>() {
                             @Override
