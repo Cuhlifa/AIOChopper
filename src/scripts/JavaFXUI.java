@@ -20,6 +20,7 @@ import javafx.stage.Stage;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
+import javax.swing.border.EmptyBorder;
 
 import netscape.javascript.JSObject;
 
@@ -37,7 +38,6 @@ public class JavaFXUI extends JPanel {
     
     public JavaFXUI(){  
         initComponents();
-        Color color = new Color(0,0,0,0);
     }
   
     public static void main(String args[]){  
@@ -53,8 +53,9 @@ public class JavaFXUI extends JPanel {
 	        });
     }
      
-    private void initComponents(){  
-        jfxPanel = new JFXPanel();  
+    private void initComponents(){
+        jfxPanel = new JFXPanel();
+        jfxPanel.setLocation(0,0);
         createScene();  
         add(jfxPanel);
     }
