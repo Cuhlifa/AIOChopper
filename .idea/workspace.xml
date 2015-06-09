@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0382d8ab-cda2-4a67-9e35-6a90b94f0387" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scripts/JavaFXUI.java" afterPath="$PROJECT_DIR$/src/scripts/JavaFXUI.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
@@ -28,8 +29,8 @@
       <file leaf-file-name="JavaFXUI.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/scripts/JavaFXUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22899505">
-              <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.7561779">
+              <caret line="70" column="55" selection-start-line="70" selection-start-column="55" selection-end-line="70" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -609,7 +610,7 @@
       <workItem from="1433814890825" duration="165000" />
       <workItem from="1433815281702" duration="4010000" />
       <workItem from="1433851604238" duration="2473000" />
-      <workItem from="1433879835187" duration="8756000" />
+      <workItem from="1433879835187" duration="8881000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1433812066789</created>
@@ -869,11 +870,17 @@
       <option name="project" value="LOCAL" />
       <updated>1433890730031</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Webcommit">
+      <created>1433890779048</created>
+      <option name="number" value="00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1433890779048</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19594000" />
+    <option name="totallyTimeSpent" value="19719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1035,8 +1042,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scripts/JavaFXUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22899505">
-          <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.7561779">
+          <caret line="70" column="55" selection-start-line="70" selection-start-column="55" selection-end-line="70" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

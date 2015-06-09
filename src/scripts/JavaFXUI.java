@@ -68,7 +68,7 @@ public class JavaFXUI extends JPanel {
                  
                 stage.setTitle("Hello Java FX");  
                 StackPane root =  new StackPane();
-                Scene scene = new Scene(root, 470,680);  
+                Scene scene = new Scene(root, 500,700);
                 stage.setScene(scene);  
                 Platform.setImplicitExit(false);
                  
