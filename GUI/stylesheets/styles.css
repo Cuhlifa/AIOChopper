@@ -3,11 +3,13 @@
 }
 
 .logsright{
-  margin-right: 0%;
+  margin: 0;
+  right: 0;
   position: absolute;
 }
 
 .logsleft{
-  margin-left: 0%;
+  margin: 0;
+  left: 0;
   position: absolute;
 }
