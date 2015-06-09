@@ -20,7 +20,7 @@ public class FXGUI extends Application{
     @Override
     public void start(Stage primaryStage) throws Exception {
 
-        Parent root = FXMLLoader.load(new URL(""));
+        Parent root = FXMLLoader.load(new URL("https://raw.githubusercontent.com/Cuhlifa/AIOChopper/master/src/scripts/FXGUI.java"));
         Scene scene = new Scene(root);
 
         primaryStage.setScene(scene);
