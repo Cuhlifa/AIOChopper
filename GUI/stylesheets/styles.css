@@ -5,9 +5,13 @@
 .logsright{
   margin: 0;
 float: right;
+  width: 100px;
+  height: 100px;
 }
 
 .logsleft{
   margin: 0;
   float: left;
+  width: 100px;
+  height: 100px;
 }
