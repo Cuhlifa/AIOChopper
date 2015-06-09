@@ -30,12 +30,12 @@ public class AIOChopper extends Script implements Painting {
     }
 
     public static void main(String[] args) {
-        FXGUI.main(null);
+        JavaFXUI.main(args);
     }
 
     @Override
     public void run() {
-        FXGUI.main(null);
+
     }
 
 }
