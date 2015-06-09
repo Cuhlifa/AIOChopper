@@ -1,7 +1,9 @@
 package scripts;
 
 import com.sun.javafx.application.PlatformImpl;
-import java.awt.Dimension;
+
+import java.awt.*;
+
 import javafx.application.Platform;
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
@@ -34,15 +36,15 @@ public class JavaFXUI extends JPanel {
   
     
     public JavaFXUI(){  
-        initComponents();  
-        setBackground(new java.awt.Color(39, 43, 48));
-    }  
+        initComponents();
+        Color color = new Color(0,0,0,0);
+    }
   
     public static void main(String args[]){  
 	        SwingUtilities.invokeLater(new Runnable() {
 	            @Override
 	            public void run() {  
-	                frame.setTitle("Auto Fletcher Elite");
+	                frame.setTitle("AIOChopper++");
 	                frame.setMinimumSize(new Dimension(500, 700));  
 	                frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);  
 	                frame.setVisible(true);
