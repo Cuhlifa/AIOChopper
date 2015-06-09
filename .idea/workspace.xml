@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0382d8ab-cda2-4a67-9e35-6a90b94f0387" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GUI/javascripts/background.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GUI/index.html" afterPath="$PROJECT_DIR$/GUI/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GUI/stylesheets/styles.css" afterPath="$PROJECT_DIR$/GUI/stylesheets/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
@@ -29,8 +31,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GUI/stylesheets/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.0">
-              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state vertical-scroll-proportion="-0.6296296">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -39,8 +41,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GUI/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2094065">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.2551963">
+              <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -52,6 +54,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -81,6 +84,7 @@
         <option value="$PROJECT_DIR$/src/web/GUI.html" />
         <option value="$PROJECT_DIR$/src/scripts/JavaFXUI.java" />
         <option value="$PROJECT_DIR$/GUI/stylesheets/styles.css" />
+        <option value="$PROJECT_DIR$/GUI/javascripts/background.js" />
         <option value="$PROJECT_DIR$/GUI/index.html" />
       </list>
     </option>
@@ -223,7 +227,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
+              <option name="myItemId" value="javascripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -596,7 +600,7 @@
       <workItem from="1433814890825" duration="165000" />
       <workItem from="1433815281702" duration="4010000" />
       <workItem from="1433851604238" duration="2473000" />
-      <workItem from="1433879835187" duration="6562000" />
+      <workItem from="1433879835187" duration="6855000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1433812066789</created>
@@ -772,11 +776,17 @@
       <option name="project" value="LOCAL" />
       <updated>1433888496379</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Webcommit">
+      <created>1433888584273</created>
+      <option name="number" value="00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1433888584274</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17400000" />
+    <option name="totallyTimeSpent" value="17693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -924,16 +934,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GUI/stylesheets/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.0">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        <state vertical-scroll-proportion="-0.6296296">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/javascripts/background.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.110990204">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GUI/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2094065">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.2551963">
+          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
           <folding />
         </state>
       </provider>
