@@ -23,7 +23,5 @@ h1{
   font-family: 'Comfortaa', cursive;
   font-size: 20px;
   color: white;
-  -webkit-text-shadow: 0 10px 6px -6px #777;
-  -moz-text-shadow: 0 10px 6px -6px #777;
-  text-shadow: 0 10px 6px -6px #777;
+  text-shadow: 6px 6px 0px rgba(0,0,0,0.2);
 }
