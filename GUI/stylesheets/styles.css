@@ -3,14 +3,14 @@
 }
 
 .logsright{
-  margin: 0;
+  margin-right: 20%;
 float: right;
   width: 100px;
   height: 100px;
 }
 
 .logsleft{
-  margin: 0;
+  margin-left: 20%;
   float: left;
   width: 100px;
   height: 100px;
