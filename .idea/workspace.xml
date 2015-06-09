@@ -29,8 +29,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GUI/stylesheets/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.038116593">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.076233186">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -598,7 +598,7 @@
       <workItem from="1433814890825" duration="165000" />
       <workItem from="1433815281702" duration="4010000" />
       <workItem from="1433851604238" duration="2473000" />
-      <workItem from="1433879835187" duration="6906000" />
+      <workItem from="1433879835187" duration="7083000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1433812066789</created>
@@ -786,11 +786,17 @@
       <option name="project" value="LOCAL" />
       <updated>1433888879231</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Webcommit">
+      <created>1433888927787</created>
+      <option name="number" value="00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1433888927787</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17744000" />
+    <option name="totallyTimeSpent" value="17921000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -954,8 +960,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GUI/stylesheets/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.038116593">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.076233186">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
           <folding />
         </state>
       </provider>
