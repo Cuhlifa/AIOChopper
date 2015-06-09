@@ -4,8 +4,10 @@
 
 .logsright{
   margin-right: 0%;
+  position: absolute;
 }
 
 .logsleft{
   margin-left: 0%;
+  position: absolute;
 }
