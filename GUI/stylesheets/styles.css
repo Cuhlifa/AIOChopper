@@ -40,7 +40,7 @@ h2{
 }
 
 #breathing-button {
-    width: 170px;
+    width: 120px;
     height: 30px;
     margin: 50px auto;
     border: 1px solid #d1d1d1;
@@ -49,70 +49,6 @@ h2{
     font-size: 24px;
     background: rgba(0,0,0,0);
     color: #fff;
-    -webkit-font-smoothing: antialiased;
-    border-radius: 3px;
-    text-align: center;
-}
-
-
-@-webkit-keyframes breathing {
-    0% {
-        -webkit-transform: scale(0.9);
-        transform: scale(0.9);
-    }
-
-    25% {
-        -webkit-transform: scale(1);
-        transform: scale(1);
-    }
-
-    60% {
-        -webkit-transform: scale(0.9);
-        transform: scale(0.9);
-    }
-
-    100% {
-        -webkit-transform: scale(0.9);
-        transform: scale(0.9);
-    }
-}
-
-@keyframes breathing {
-    0% {
-        -webkit-transform: scale(0.9);
-        -ms-transform: scale(0.9);
-        transform: scale(0.9);
-    }
-
-    25% {
-        -webkit-transform: scale(1);
-        -ms-transform: scale(1);
-        transform: scale(1);
-    }
-
-    60% {
-        -webkit-transform: scale(0.9);
-        -ms-transform: scale(0.9);
-        transform: scale(0.9);
-    }
-
-    100% {
-        -webkit-transform: scale(0.9);
-        -ms-transform: scale(0.9);
-        transform: scale(0.9);
-    }
-}
-
-#breathing-button {
-    width: 170px;
-    padding: 20px;
-    margin: 50px auto;
-    border: 1px solid #d1d1d1;
-    -webkit-animation: breathing 7s ease-out infinite normal;
-    animation: breathing 7s ease-out infinite normal;
-    font-size: 24px;
-    background: rgba(0,0,0,0);
-    color: #ffffff;
     -webkit-font-smoothing: antialiased;
     border-radius: 3px;
     text-align: center;
