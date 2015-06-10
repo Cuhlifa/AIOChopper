@@ -4,7 +4,8 @@ body{
 
 h1{
   font-family: 'Comfortaa', cursive;
-  margin-left:100px;
+    margin-top: 0px;
+  margin-left: 100px;
   text-align: left;
   font-size: 60px;
 }
