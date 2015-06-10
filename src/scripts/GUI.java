@@ -1,8 +1,7 @@
 package scripts;
-
 import com.sun.javafx.application.PlatformImpl;
-
-import java.awt.*;
+import java.awt.BorderLayout;
+import java.awt.Dimension;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javafx.application.Platform;
@@ -35,16 +34,15 @@ public class GUI extends JPanel {
     }
 
     public static void main(String ...args){
+        // Run this later:
         SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run() {
                 final JFrame frame = new JFrame();
-                GUI gui = new GUI();
-                frame.setMinimumSize(new Dimension(500, 700));
+
                 frame.getContentPane().add(new GUI());
-                frame.setTitle("AIOChopper++");
-                frame.setResizable(false);
-                frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+                frame.setMinimumSize(new Dimension(640, 480));
+                frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                 frame.setVisible(true);
             }
         });
@@ -58,25 +56,15 @@ public class GUI extends JPanel {
         setLayout(new BorderLayout());
         add(jfxPanel, BorderLayout.CENTER);
 
-        swingButton = new JButton();
-        swingButton.addActionListener(new ActionListener() {
-
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                Platform.runLater(new Runnable() {
-
-                    @Override
-                    public void run() {
-                        webEngine.reload();
-                    }
-                });
-            }
-        });
-        swingButton.setText("Reload");
-
-        add(swingButton, BorderLayout.SOUTH);
     }
 
+    /**
+     * createScene
+     *
+     * Note: Key is that Scene needs to be created and run on "FX user thread"
+     *       NOT on the AWT-EventQueue Thread
+     *
+     */
     private void createScene() {
         PlatformImpl.startup(new Runnable() {
             @Override
@@ -85,10 +73,10 @@ public class GUI extends JPanel {
                 stage = new Stage();
 
                 stage.setTitle("Hello Java FX");
-                stage.setResizable(true);
+                stage.setResizable(false);
 
                 Group root = new Group();
-                Scene scene = new Scene(root, 470,680);
+                Scene scene = new Scene(root,80,20);
                 stage.setScene(scene);
 
                 // Set up the embedded browser:
