@@ -1,14 +1,3 @@
-/*html, body {*/
-    /*min-height: 100%;*/
-/*}*/
-/*body {*/
-    /*background: #92c7d6;*/
-    /*background-image: -webkit-radial-gradient(top, circle cover, #97d0e1, #427388 80%);*/
-    /*background-image: -moz-radial-gradient(top, circle cover, #97d0e1, #427388 80%);*/
-    /*background-image: -o-radial-gradient(top, circle cover, #97d0e1, #427388 80%);*/
-    /*background-image: radial-gradient(top, circle cover, #97d0e1, #427388 80%);*/
-/*}*/
-
 html, body {
     min-height: 100%;
 }
@@ -37,7 +26,7 @@ h1 {
     0 5px 10px rgba(0,0,0,.25),
     0 10px 10px rgba(0,0,0,.2),
     0 20px 20px rgba(0,0,0,.15);
-    font-size: 62px;
+    font-size: 64px;
     margin-top: 0px;
     margin-left: 62px;
 }
