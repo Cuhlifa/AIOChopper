@@ -35,71 +35,30 @@ h2{
     0 -1px 5px #c9c9c9;
     font-size: 2em;
 }
-[center]{
-    text-align: center;
-}
 
-#breathing-button {
-    width: 120px;
-    height: 30px;
-    margin: 50px auto;
-    border: 1px solid #d1d1d1;
-    -webkit-animation: breathing 7s ease-out infinite normal;
-    animation: breathing 7s ease-out infinite normal;
-    font-size: 24px;
+.startbutton{
+
+    width: 100px;
+    height: 35px;
     background: rgba(0,0,0,0);
-    color: #fff;
-    -webkit-font-smoothing: antialiased;
-    border-radius: 3px;
-    text-align: center;
+    border-color: white;
+    border-style: solid;
+    color: white;
+    border-width: 1px;
+    -webkit-transition: color 0.56s;
+    transition: color 0.56s;
+    -webkit-transition: background 0.56s;
+    transition: background 0.56s;
+    -webkit-transition: margin-top 0.56s;
+    transition: margin-top 0.56s;
+
 }
 
+button.startbutton:hover {
 
-@-webkit-keyframes breathing {
-    0% {
-        -webkit-transform: scale(0.9);
-        transform: scale(0.9);
-    }
+    background: rgba(255,255,255,1);
+    color: grey;
+    margin-top: -8px;
 
-    25% {
-        -webkit-transform: scale(1);
-        transform: scale(1);
-    }
 
-    60% {
-        -webkit-transform: scale(0.9);
-        transform: scale(0.9);
-    }
-
-    100% {
-        -webkit-transform: scale(0.9);
-        transform: scale(0.9);
-    }
 }
-
-@keyframes breathing {
-    0% {
-        -webkit-transform: scale(0.9);
-        -ms-transform: scale(0.9);
-        transform: scale(0.9);
-    }
-
-    25% {
-        -webkit-transform: scale(1);
-        -ms-transform: scale(1);
-        transform: scale(1);
-    }
-
-    60% {
-        -webkit-transform: scale(0.9);
-        -ms-transform: scale(0.9);
-        transform: scale(0.9);
-    }
-
-    100% {
-        -webkit-transform: scale(0.9);
-        -ms-transform: scale(0.9);
-        transform: scale(0.9);
-    }
-}
-
