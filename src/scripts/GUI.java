@@ -40,7 +40,7 @@ public class GUI extends JPanel {
             public void run() {
                 final JFrame frame = new JFrame();
                 frame.getContentPane().add(new GUI());
-                frame.setMinimumSize(new Dimension(500, 700));
+                frame.setMinimumSize(new Dimension(640, 480));
                 frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                 frame.setVisible(true);
                 frame.setResizable(false);
