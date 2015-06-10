@@ -52,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/GUI/stylesheets/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.523888">
-              <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+              <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -643,13 +643,7 @@
       <workItem from="1433902384611" duration="7000" />
       <workItem from="1433959007693" duration="936000" />
       <workItem from="1433974103416" duration="1936000" />
-      <workItem from="1433976075141" duration="2323000" />
-    </task>
-    <task id="LOCAL-00042" summary="Webcommit">
-      <created>1433890393178</created>
-      <option name="number" value="00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1433890393178</updated>
+      <workItem from="1433976075141" duration="2371000" />
     </task>
     <task id="LOCAL-00043" summary="Webcommit">
       <created>1433890730031</created>
@@ -939,11 +933,17 @@
       <option name="project" value="LOCAL" />
       <updated>1433978357613</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="lol">
+      <created>1433978403384</created>
+      <option name="number" value="00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1433978403384</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33817000" />
+    <option name="totallyTimeSpent" value="33865000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1202,7 +1202,7 @@
     <entry file="file://$PROJECT_DIR$/GUI/stylesheets/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.523888">
-          <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+          <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
           <folding />
         </state>
       </provider>
