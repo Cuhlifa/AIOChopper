@@ -4,11 +4,11 @@ html, body {
 
 body {
     color: #404040;
-    background: #282537;
-    background-image: -webkit-radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
-    background-image: -moz-radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
-    background-image: -o-radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
-    background-image: radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
+    background: #193715;
+    background-image: -webkit-radial-gradient(top, circle cover, #445243 0%, #293326 80%);
+    background-image: -moz-radial-gradient(top, circle cover, #445243 0%, #293326 80%);
+    background-image: -o-radial-gradient(top, circle cover, #445243 0%, #293326 80%);
+    background-image: radial-gradient(top, circle cover, #445243 0%, #293326 80%);
 }
 
 h1,h2{ color:#fff; font-family: sans-serif;   text-transform: uppercase;}

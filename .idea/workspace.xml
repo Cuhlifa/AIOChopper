@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0382d8ab-cda2-4a67-9e35-6a90b94f0387" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GUI/index.html" afterPath="$PROJECT_DIR$/GUI/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GUI/stylesheets/styles.css" afterPath="$PROJECT_DIR$/GUI/stylesheets/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
@@ -38,21 +39,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GUI/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46028882">
-              <caret line="15" column="74" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
+            <state vertical-scroll-proportion="-4.811321">
+              <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GUI/stylesheets/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.19604613">
+              <caret line="7" column="84" selection-start-line="7" selection-start-column="84" selection-end-line="7" selection-end-column="84" />
               <folding />
             </state>
           </provider>
@@ -96,8 +97,8 @@
         <option value="$PROJECT_DIR$/src/scripts/MyFrame.java" />
         <option value="$PROJECT_DIR$/src/scripts/AIOChopper.java" />
         <option value="$PROJECT_DIR$/src/scripts/GUI.java" />
-        <option value="$PROJECT_DIR$/GUI/stylesheets/styles.css" />
         <option value="$PROJECT_DIR$/GUI/index.html" />
+        <option value="$PROJECT_DIR$/GUI/stylesheets/styles.css" />
       </list>
     </option>
   </component>
@@ -643,13 +644,7 @@
       <workItem from="1433902384611" duration="7000" />
       <workItem from="1433959007693" duration="936000" />
       <workItem from="1433974103416" duration="1936000" />
-      <workItem from="1433976075141" duration="2727000" />
-    </task>
-    <task id="LOCAL-00045" summary="Webcommit">
-      <created>1433890906244</created>
-      <option name="number" value="00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1433890906244</updated>
+      <workItem from="1433976075141" duration="3723000" />
     </task>
     <task id="LOCAL-00046" summary="Webcommit">
       <created>1433891439281</created>
@@ -939,11 +934,17 @@
       <option name="project" value="LOCAL" />
       <updated>1433978729068</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="lol">
+      <created>1433978806628</created>
+      <option name="number" value="00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1433978806628</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34221000" />
+    <option name="totallyTimeSpent" value="35217000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1181,6 +1182,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.811321">
+          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/scripts/GUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1193,16 +1202,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GUI/stylesheets/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46028882">
-          <caret line="15" column="74" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
+        <state vertical-scroll-proportion="0.19604613">
+          <caret line="7" column="84" selection-start-line="7" selection-start-column="84" selection-end-line="7" selection-end-column="84" />
           <folding />
         </state>
       </provider>
