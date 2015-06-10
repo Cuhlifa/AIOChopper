@@ -1,30 +1,5 @@
-@alpha:0.2;
-@size : 20px;
-
-@s2 : @size / 2;
-@s2p : @size / 2 + 1;
-
-@a : 80;
-@b : 0;
-@c : 255;
-
 body{
-  background:
-  radial-gradient(rgba(@a,@a,@a,@alpha) 25%, transparent 0%)0 1px,
-  radial-gradient(rgba(@a,@a,@a,@alpha) 25%, transparent 0%)@s2 @s2p,
-  radial-gradient(rgba(@b,@b,@b,@alpha) 30%, transparent 0%)0 0,
-  radial-gradient(rgba(@b,@b,@b,@alpha) 30%, transparent 0%)@s2 @s2,
-  radial-gradient(rgba(@c,@c,@c,@alpha) 30%, transparent 0%)0 2px,
-  radial-gradient(rgba(@c,@c,@c,@alpha) 30%, transparent 0%)@s2 @s2p + 1,
-  linear-gradient(115deg, #85ff7f, #3b662d,#85ff7f);
-  background-size:
-  @size @size,
-  @size @size,
-  @size @size,
-  @size @size,
-  @size @size,
-  @size @size,
-  2048px 2048px;
+    background: black;
 }
 
 h1{
