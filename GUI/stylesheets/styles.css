@@ -2,7 +2,6 @@ html, body {
     min-height: 100%;
 }
 
-
 body {
     color: #404040;
     background: #282537;
@@ -112,7 +111,7 @@ h2{
     animation: breathing 7s ease-out infinite normal;
     font-size: 24px;
     background: #fff;
-    color: #000000;
+    color: #838383;
     -webkit-font-smoothing: antialiased;
     border-radius: 3px;
     text-align: center;
