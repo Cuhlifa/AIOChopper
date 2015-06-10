@@ -44,6 +44,7 @@ public class GUI extends JPanel {
                 frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                 frame.setVisible(true);
                 frame.setResizable(false);
+                frame.setTitle("AIOChopper++");
             }
         });
     }
