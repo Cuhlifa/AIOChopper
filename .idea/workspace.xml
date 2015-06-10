@@ -51,8 +51,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GUI/stylesheets/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18498367">
-              <caret line="108" column="30" selection-start-line="108" selection-start-column="30" selection-end-line="108" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.85201305">
+              <caret line="167" column="1" selection-start-line="167" selection-start-column="1" selection-end-line="167" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -643,13 +643,7 @@
       <workItem from="1433902384611" duration="7000" />
       <workItem from="1433959007693" duration="936000" />
       <workItem from="1433974103416" duration="1936000" />
-      <workItem from="1433976075141" duration="85000" />
-    </task>
-    <task id="LOCAL-00032" summary="Webcommit">
-      <created>1433888927787</created>
-      <option name="number" value="00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1433888927787</updated>
+      <workItem from="1433976075141" duration="204000" />
     </task>
     <task id="LOCAL-00033" summary="Webcommit">
       <created>1433889105748</created>
@@ -939,11 +933,17 @@
       <option name="project" value="LOCAL" />
       <updated>1433976123242</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="lol">
+      <created>1433976164097</created>
+      <option name="number" value="00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1433976164097</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31579000" />
+    <option name="totallyTimeSpent" value="31698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1184,8 +1184,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GUI/stylesheets/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18498367">
-          <caret line="108" column="30" selection-start-line="108" selection-start-column="30" selection-end-line="108" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.85201305">
+          <caret line="167" column="1" selection-start-line="167" selection-start-column="1" selection-end-line="167" selection-end-column="1" />
           <folding />
         </state>
       </provider>
