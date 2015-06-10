@@ -47,7 +47,7 @@ h2{
     -webkit-animation: breathing 7s ease-out infinite normal;
     animation: breathing 7s ease-out infinite normal;
     font-size: 24px;
-    background: #ffffff;
+    background: rgba(0,0,0,0);
     color: #fff;
     -webkit-font-smoothing: antialiased;
     border-radius: 3px;
