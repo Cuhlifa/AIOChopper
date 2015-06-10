@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0382d8ab-cda2-4a67-9e35-6a90b94f0387" name="Default" comment="lol">
+    <list default="true" id="0382d8ab-cda2-4a67-9e35-6a90b94f0387" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GUI/stylesheets/styles.css" afterPath="$PROJECT_DIR$/GUI/stylesheets/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -51,8 +51,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GUI/stylesheets/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.055495102">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.44810542">
+              <caret line="112" column="30" selection-start-line="112" selection-start-column="30" selection-end-line="112" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -629,25 +629,7 @@
       <workItem from="1433879835187" duration="17777000" />
       <workItem from="1433902384611" duration="7000" />
       <workItem from="1433959007693" duration="936000" />
-      <workItem from="1433974103416" duration="970000" />
-    </task>
-    <task id="LOCAL-00026" summary="Webcommit">
-      <created>1433888072419</created>
-      <option name="number" value="00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1433888072419</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Webcommit">
-      <created>1433888238101</created>
-      <option name="number" value="00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1433888238101</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Webcommit">
-      <created>1433888265213</created>
-      <option name="number" value="00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1433888265213</updated>
+      <workItem from="1433974103416" duration="1445000" />
     </task>
     <task id="LOCAL-00029" summary="Webcommit">
       <created>1433888496379</created>
@@ -925,11 +907,29 @@
       <option name="project" value="LOCAL" />
       <updated>1433974917993</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="lol">
+      <created>1433975085346</created>
+      <option name="number" value="00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1433975085346</updated>
+    </task>
+    <task id="LOCAL-00076" summary="lol">
+      <created>1433975195146</created>
+      <option name="number" value="00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1433975195146</updated>
+    </task>
+    <task id="LOCAL-00077" summary="lol">
+      <created>1433975479672</created>
+      <option name="number" value="00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1433975479672</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30528000" />
+    <option name="totallyTimeSpent" value="31003000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -943,7 +943,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32946146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18229167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -977,7 +977,8 @@
     <MESSAGE value="Webcommit" />
     <MESSAGE value="&#10;" />
     <MESSAGE value="&#10;klkl" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;klkl" />
+    <MESSAGE value="lol" />
+    <option name="LAST_COMMIT_MESSAGE" value="lol" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1144,8 +1145,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GUI/stylesheets/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.055495102">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.44810542">
+          <caret line="112" column="30" selection-start-line="112" selection-start-column="30" selection-end-line="112" selection-end-column="30" />
           <folding />
         </state>
       </provider>
